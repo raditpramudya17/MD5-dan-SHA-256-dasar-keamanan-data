@@ -1,0 +1,17 @@
+{
+    "Radit": {
+        "password_hash": "96cae35ce8a9b0244178bf28e4966c2ce1b8385723a96a6b838858cdd6ca0a1e",
+        "algoritma": "SHA-256",
+        "terdaftar_pada": "2026-05-30 23:31:34"
+    },
+    "Fahri": {
+        "password_hash": "470793e036b9db245ac460dc89b15913",
+        "algoritma": "MD5",
+        "terdaftar_pada": "2026-05-30 23:32:20"
+    },
+    "raditpramudya17": {
+        "password_hash": "96cae35ce8a9b0244178bf28e4966c2ce1b8385723a96a6b838858cdd6ca0a1e",
+        "algoritma": "SHA-256",
+        "terdaftar_pada": "2026-05-31 11:09:30"
+    }
+}
